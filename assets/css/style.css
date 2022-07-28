@@ -880,6 +880,10 @@ a:hover {
 .w-title {
   font-size: 1.2rem;
 }
+/* .img-fluid{
+  max-width: 100%;
+  height: 277px;
+} */
 
 /*--------------------------------------------------------------
 # Portfolio Details
@@ -1090,6 +1094,16 @@ a:hover {
   100% {
     transform: rotate(360deg);
   }
+}
+.socials .ico-circle {
+  height: 35px;
+  width: 50px;
+  font-size: 1.2rem;
+  border-radius: 50%;
+  line-height: 1.6;
+  margin: 0 15px 0 0;
+  box-shadow: 0 0 0 3px #0078ff;
+  transition: all 500ms ease;
 }
 /*--------------------------------------------------------------
 # Blog
