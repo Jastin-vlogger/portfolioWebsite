@@ -1096,8 +1096,8 @@ a:hover {
   }
 }
 .socials .ico-circle {
-  height: 35px;
-  width: 54px;
+  height: 35px !important;
+  width: 54px !important;
   font-size: 1.2rem;
   border-radius: 50%;
   line-height: 1.6;
